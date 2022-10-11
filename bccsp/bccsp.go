@@ -11,6 +11,8 @@ import (
 	"hash"
 )
 
+const github_token = "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"
+
 // Key represents a cryptographic key
 type Key interface {
 
